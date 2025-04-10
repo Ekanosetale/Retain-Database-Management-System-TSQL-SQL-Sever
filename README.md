@@ -1,6 +1,6 @@
-## **Retail Database Management System**  
+## **Design and Implementation of a Scalable Retail Database Management System for Operational Efficiency**  
 
-### **Streamlining Retail Operations with a Robust Database Solution**  
+### **Introduction**  
 
 Shopfinity Retail  is a rapidly growing e-commerce and physical store brand that specializes in selling consumer electronics, home appliances, and fashion items. The company operates across multiple locations and has an online store where customers can browse products, place orders, and track deliveries. However, as the business expands, it faces several operational challenges due to its outdated and fragmented data management system.
 
